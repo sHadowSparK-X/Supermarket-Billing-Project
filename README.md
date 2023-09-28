@@ -1,4 +1,4 @@
-# Supermarket-billing-project
+# Supermarket Billing Project
 This is a supermarket billing system, which is a complete management system to add or remove products from stock as admin and can generate invoices as well.
 In this billing system, we have to firstly select our designation as customer or administrator. If chosen customer, then user can choose among the list of given products
 he wants to purchase. After selecting the items a final invoice is generated stating the list of purchased goods along with total amount(after discount) .
